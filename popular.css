@@ -1,0 +1,23 @@
+.header{
+  display: flex;
+  justify-content: center;
+}
+.header-items{
+  margin-left: 10px;
+  display: inline-block;
+}
+.main{
+  display: flex;
+  flex-wrap: wrap;
+  width : 750px;
+  margin: auto;
+}
+.repos{
+  padding-bottom: 50px;
+  width: 18%;
+  text-align: center;
+}
+img{
+  width: 80%;
+  border-radius: 500px;
+}
